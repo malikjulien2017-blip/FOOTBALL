@@ -1,99 +1,31 @@
-# FOOTBALL
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Discover Barcelona Football Club - Learn about legends, positions, and strategy">
-  <title>Barcelona Football Club - Home</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <!-- HEADER NAV -->
-  <header>
-    <div class="header-container">
-      <a href="index.html" class="logo">⚽ Barcelona FC</a>
-      <button class="menu-toggle">☰</button>
-      <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="players.html">Players</a></li>
-          <li><a href="positions.html">Positions</a></li>
-          <li><a href="history.html">History</a></li>
-          <li><a href="compare.html">Compare</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+# Barcelona Football Website
 
-  <!-- HERO SECTION -->
-  <section class="hero">
-    <div class="container">
-      <h1>Welcome to Barcelona Football</h1>
-      <p>Discover the Legacy, Learn the Game, Master the Positions</p>
-      <a href="players.html" class="btn">Explore Players</a>
-      <a href="positions.html" class="btn btn-secondary">Learn Positions</a>
-    </div>
-  </section>
+An educational and interactive resource for football players and athletes to learn about Barcelona Football Club, understand player positions, explore team history, and compare legendary players.
 
-  <!-- MAIN CONTENT -->
-  <section class="container">
-    <h1>Why Barcelona?</h1>
-    <div class="grid">
-      <div class="card">
-        <div class="card-img">🏆</div>
-        <div class="card-body">
-          <h3 class="card-title">Champions Legacy</h3>
-          <p class="card-text">Multiple La Liga titles, UEFA Champions League victories, and a commitment to excellence on every pitch.</p>
-        </div>
-      </div>
+## Features
 
-      <div class="card">
-        <div class="card-img">⚽</div>
-        <div class="card-body">
-          <h3 class="card-title">Legendary Players</h3>
-          <p class="card-text">From Messi to Ronaldinho, Barcelona has hosted the world's greatest football talents.</p>
-        </div>
-      </div>
+- **Player Roster**: Full roster with search and filter functionality
+- **Positions Guide**: Detailed guide to all football positions
+- **Team History**: Barcelona's achievements, timeline, and playing philosophy
+- **Player Comparison**: Interactive tool to compare players side-by-side
 
-      <div class="card">
-        <div class="card-img">📚</div>
-        <div class="card-body">
-          <h3 class="card-title">Learn the Game</h3>
-          <p class="card-text">Understand football positions, tactics, and the philosophy that makes Barcelona unique.</p>
-        </div>
-      </div>
+## Pages
 
-      <div class="card">
-        <div class="card-img">🎯</div>
-        <div class="card-body">
-          <h3 class="card-title">Position Mastery</h3>
-          <p class="card-text">Discover the key responsibilities and skills needed for every position on the field.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+- Home (index.html) - Landing page with overview
+- Players (players.html) - Player roster
+- Positions (positions.html) - Position guides
+- History (history.html) - Team history
+- Compare (compare.html) - Player comparison
 
-  <!-- QUICK STATS -->
-  <section class="container" style="background: var(--light-gray); padding: 3rem 0; margin-top: 0;">
-    <h2 style="text-align: center;">Quick Facts</h2>
-    <div class="grid">
-      <div class="card">
-        <div class="card-body text-center">
-          <h3 class="card-title" style="font-size: 2.5rem; color: var(--secondary-red);">26+</h3>
-          <p>La Liga Titles</p>
-        </div>
-      </div>
+## Technologies
 
-      <div class="card">
-        <div class="card-body text-center">
-          <h3 class="card-title" style="font-size: 2.5rem; color: var(--secondary-red);">5</h3>
-          <p>UEFA Champions League Titles</p>
-        </div>
-      </div>
+- HTML5
+- CSS3
+- JavaScript
 
-      <div class="card">
-        <div class="card-body text-center">
+## Getting Started
+
+Open `index.html` in your web browser to start exploring.
           <h3 class="card-title" style="font-size: 2.5rem; color: var(--secondary-red);">60+ Years</h3>
           <p>Of Excellence</p>
         </div>
@@ -154,12 +86,38 @@
   </footer>
 
   <script src="js/script.js"></script>
+=======
+  <title>Soccer Hub</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>⚽ Soccer Hub</h1>
+  <nav>
+    <a href</header>
+
+<main>
+  <section>
+    <h2>Welcome to Soccer Hub</h2>
+    <p id="fact">Click the button to learn a soccer fact!</p>
+    <button onclick="showFact()">Show Soccer Fact</button>
+  </section>
+</main>
+
+<footer>
+  <p>© 2026 Soccer Hub</p>
+</footer>
+
+js/script.js
+>>>>>>> 8fef17beb659316514cfe3b02523528c7042f742
 </body>
 </html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+<<<<<<< HEAD
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Barcelona Players - View roster with complete player profiles">
   <title>Barcelona Players</title>
@@ -501,10 +459,50 @@ nav ul {
   list-style: none;
   gap: 2rem;
   flex-wrap: wrap;
+=======
+  <title>Famous Players</title>
+  css/style.css
+</head>
+<body>
+
+<header>
+  <h1>Famous Soccer Players</h1>
+  <nav>
+    ">Home</a>
+  </nav>
+</header>
+
+<main>
+  <ul>
+    <li>Lionel Messi</li>
+    <li>Cristiano Ronaldo</li>
+    <li>Pelé</li>
+    <li>Ronaldinho</li>
+  </ul>
+</main>
+
+<footer>
+  <p>Soccer Hub</p>
+</footer>
+
+</body>
+</html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #1e7f3b;
+  color: white;
+  padding: 15px;
+>>>>>>> 8fef17beb659316514cfe3b02523528c7042f742
 }
 
 nav a {
   color: white;
+<<<<<<< HEAD
   text-decoration: none;
   font-weight: 500;
   transition: var(--transition);
@@ -1012,3 +1010,30 @@ document.addEventListener('DOMContentLoaded', function () {
   highlightActiveNav();
   observeElements();
 });
+=======
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  background-color: #1e7f3b;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+const facts = [
+  "Soccer is the most popular sport in the world.",
+  "A soccer match lasts 90 minutes.",
+  "The World Cup happens every 4 years."
+];
+
+function showFact() {
+  const randomFact = facts[Math.floor(Math.random() * facts.length)];
+  document.getElementById("fact").textContent = randomFact;
+}
+>>>>>>> 8fef17beb659316514cfe3b02523528c7042f742

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Marc-André ter Stegen",
+    "position": "Goalkeeper",
+    "number": 1,
+    "height": "187 cm",
+    "nationality": "German",
+    "description": "World-class goalkeeper known for excellent reflexes and distribution"
+  },
+  {
+    "id": 2,
+    "name": "Sergiño Dest",
+    "position": "Left Back",
+    "number": 3,
+    "height": "173 cm",
+    "nationality": "American",
+    "description": "Pacey left-back with strong attacking prowess"
+  },
+  {
+    "id": 3,
+    "name": "Gerard Piqué",
+    "position": "Centre Back",
+    "number": 3,
+    "height": "194 cm",
+    "nationality": "Spanish",
+    "description": "Veteran defender with exceptional leadership and positioning"
+  },
+  {
+    "id": 4,
+    "name": "Ronaldinho",
+    "position": "Midfielder",
+    "number": 10,
+    "height": "181 cm",
+    "nationality": "Brazilian",
+    "description": "Legendary playmaker with magical dribbling skills and creativity"
+  },
+  {
+    "id": 5,
+    "name": "Xavi Hernández",
+    "position": "Central Midfielder",
+    "number": 6,
+    "height": "180 cm",
+    "nationality": "Spanish",
+    "description": "Barcelona icon, master of possession and passing accuracy"
+  },
+  {
+    "id": 6,
+    "name": "Andrés Iniesta",
+    "position": "Left Midfielder",
+    "number": 8,
+    "height": "171 cm",
+    "nationality": "Spanish",
+    "description": "Elegant midfielder with incredible dribbling and game control"
+  },
+  {
+    "id": 7,
+    "name": "Lionel Messi",
+    "position": "Right Forward",
+    "number": 10,
+    "height": "170 cm",
+    "nationality": "Argentine",
+    "description": "GOAT - Best player in the world, dominant in offense and precision"
+  },
+  {
+    "id": 8,
+    "name": "Luis Suárez",
+    "position": "Striker",
+    "number": 9,
+    "height": "182 cm",
+    "nationality": "Uruguayan",
+    "description": "World-class striker with powerful shot and aggressive playing style"
+  },
+  {
+    "id": 9,
+    "name": "Neymar Jr",
+    "position": "Left Forward",
+    "number": 11,
+    "height": "175 cm",
+    "nationality": "Brazilian",
+    "description": "Explosive winger with flair, pace, and technical brilliance"
+  },
+  {
+    "id": 10,
+    "name": "Sergio Busquets",
+    "position": "Defensive Midfielder",
+    "number": 5,
+    "height": "189 cm",
+    "nationality": "Spanish",
+    "description": "Defensive anchor, master of positioning and game reading"
+  }
+]
